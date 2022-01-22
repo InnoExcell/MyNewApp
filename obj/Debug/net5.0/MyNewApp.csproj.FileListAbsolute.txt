@@ -1,0 +1,16 @@
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp.deps.json
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp.runtimeconfig.json
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp.runtimeconfig.dev.json
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp.dll
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/ref/MyNewApp.dll
+/home/inno/dotNET/MyNewApp/bin/Debug/net5.0/MyNewApp.pdb
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.csproj.AssemblyReference.cache
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.AssemblyInfoInputs.cache
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.AssemblyInfo.cs
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.csproj.CoreCompileInputs.cache
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.dll
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/ref/MyNewApp.dll
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.pdb
+/home/inno/dotNET/MyNewApp/obj/Debug/net5.0/MyNewApp.genruntimeconfig.cache
