@@ -1,7 +1,7 @@
 # MyNewApp
 
 I created this repository directly from Visual Studio Code on Ubuntu 21.10
-following the "Build .NET applications with C#" tutorial on 
+following the "Build .NET applications with C#" tutorial available at: 
 https://docs.microsoft.com/en-gb/learn/paths/build-dotnet-applications-csharp/
 
 The app is running .NET v5.0 
